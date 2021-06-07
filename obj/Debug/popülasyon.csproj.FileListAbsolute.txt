@@ -1,0 +1,7 @@
+C:\Users\alper\source\repos\popülasyon\popülasyon\bin\Debug\popülasyon.exe.config
+C:\Users\alper\source\repos\popülasyon\popülasyon\bin\Debug\popülasyon.exe
+C:\Users\alper\source\repos\popülasyon\popülasyon\bin\Debug\popülasyon.pdb
+C:\Users\alper\source\repos\popülasyon\popülasyon\obj\Debug\popülasyon.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\popülasyon\popülasyon\obj\Debug\popülasyon.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\popülasyon\popülasyon\obj\Debug\popülasyon.exe
+C:\Users\alper\source\repos\popülasyon\popülasyon\obj\Debug\popülasyon.pdb
